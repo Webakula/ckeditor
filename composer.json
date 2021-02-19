@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/la2-ckeditor",
+    "name": "webakula/laravel-admin2-ckeditor",
     "description": "Integrate CKEDITOR into laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "editor", "CKEditor"],
